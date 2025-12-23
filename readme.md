@@ -43,7 +43,7 @@ terraform-azure-vnet/
 │   ├── uat.tfvars
 │   └── prod.tfvars
 │
-└── backend/                    # Remote backend config (optional)
+└── backend/                    # Remote backend config 
     ├── dev.backend.tfvars
     ├── uat.backend.tfvars
     └── prod.backend.tfvars
